@@ -6,9 +6,9 @@
                                                       User Group 1(Customer)-  
                                                                     
                                                                     
-    1- Can signup /login
+   1- Can signup /login
 
-    2- Can Book Taxi
+   2- Can Book Taxi
 
 3- Can check previous ride with proper date &amp; price &amp; Other information
 
