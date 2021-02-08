@@ -7,19 +7,12 @@
                                                                     
                                                                     
 1- Can signup /login 
-
 2- Can Book Taxi
-
 3- Can check previous ride with proper date &amp; price &amp; Other information
-
 4. Can check how much he spent on cab &amp; total rides covered 
-
 5. Can filter data like month wise , week wise, CabWise 
-
 6. Can sort data(by ride date , by fare)(Asc, Desc Both) 
-
 7. Only unblocked user can login 
-
 8. Can update personal information like mobile number, Password, Name, username can't change  
 
 
