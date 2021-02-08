@@ -1,10 +1,9 @@
 # cedcab
 
 
---------------------------********************------------------------
 
 
-                                                                    User Group 1(Customer)-  
+                                                      User Group 1(Customer)-  
                                                                     
                                                                     
 1- Can signup /login 
@@ -16,10 +15,9 @@
 7. Only unblocked user can login 
 8. Can update personal information like mobile number, Password, Name, username can't change  
 
---------------------------********************------------------------
 
 
-                                                                     Group 2 (Admin) 
+                                                      Group 2 (Admin) 
                                                                       
                                                                       
 1. Can check new ride request 
